@@ -1,0 +1,8 @@
+relatorio final qa
+
+pipeline executado com sucesso
+build ok
+nunit ok
+semgrep ok
+falha funcional detectada na aplicacao
+porta 5010 nao respondeu
