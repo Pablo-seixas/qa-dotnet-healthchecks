@@ -1,0 +1,45 @@
+relatorio final qa
+
+1 projeto
+AspNetCore.Diagnostics.HealthChecks
+
+2 objetivo
+avaliar projeto csharp dotnet com foco em qa e teste de software
+
+3 ambiente
+arch linux
+caminho do repo /home/sx/Documentos/projetos/dotnet/AspNetCore.Diagnostics.HealthChecks-master
+
+4 ferramentas aplicadas
+nunit
+dotnet
+ffuf
+katana
+httpx
+semgrep
+
+5 ferramentas nao aplicadas
+sqlmap nao aplicado nesta rodada por nao ser prioridade
+insomnia removido da rodada final
+
+6 resultados
+restore ok
+build ok
+nunit ok
+ffuf ok
+katana ok
+httpx ok
+semgrep ok
+
+7 conclusao
+rodada inicial de qa concluida com sucesso
+ambiente funcional
+projeto compilando
+teste automatizado executando
+evidencias registradas
+
+8 proximos passos
+criar testes funcionais reais para endpoints health
+criar testes de integracao
+criar pipeline ci cd
+comparar resultados entre execucoes

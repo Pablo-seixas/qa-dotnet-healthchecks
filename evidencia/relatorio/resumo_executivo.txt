@@ -1,0 +1,12 @@
+projeto AspNetCore.Diagnostics.HealthChecks
+objetivo teste de software qa em csharp dotnet
+ambiente arch linux
+repo /home/sx/Documentos/projetos/dotnet/AspNetCore.Diagnostics.HealthChecks-master
+resultado restore ok
+resultado build ok
+resultado nunit ok
+resultado ffuf ok
+resultado katana ok
+resultado httpx ok
+resultado semgrep ok
+conclusao rodada inicial de qa concluida com sucesso

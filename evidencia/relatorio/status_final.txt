@@ -1,0 +1,7 @@
+restore ok
+build ok
+nunit ok
+ffuf ok
+katana ok
+httpx ok
+semgrep ok

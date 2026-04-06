@@ -1,0 +1,1 @@
+/home/sx/Documentos/projetos/dotnet/AspNetCore.Diagnostics.HealthChecks-master

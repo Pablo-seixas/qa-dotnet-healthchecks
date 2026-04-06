@@ -22,15 +22,15 @@ jobs:
 
       - name: restore
         run: |
-          dotnet --info
+          echo restore stage
 
       - name: build
         run: |
-          echo build stage configurada
+          echo build stage
 
       - name: test
         run: |
-          echo test stage configurada
+          echo test stage
 
       - name: semgrep
         uses: returntocorp/semgrep-action@v1
@@ -49,6 +49,6 @@ jobs:
         with:
           dotnet-version: 8.0.x
 
-      - name: functional check placeholder
+      - name: functional placeholder
         run: |
-          echo etapa funcional mantida como opcional ate correcao do runtime do sample
+          echo etapa funcional bloqueada ate correcao do runtime do sample

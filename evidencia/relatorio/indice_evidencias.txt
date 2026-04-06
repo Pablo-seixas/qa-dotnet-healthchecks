@@ -1,0 +1,11 @@
+evidencias principais
+build restore /home/sx/Documentos/projetos/evidencia/build/dotnet_restore.txt
+build compilacao /home/sx/Documentos/projetos/evidencia/build/dotnet_build.txt
+status build /home/sx/Documentos/projetos/evidencia/build/dotnet_build_status.txt
+teste nunit /home/sx/Documentos/projetos/evidencia/testes_nunit/dotnet_test.txt
+resultado trx /home/sx/Documentos/projetos/evidencia/testes_nunit/watchdog_tests.trx
+ffuf /home/sx/Documentos/projetos/evidencia/ffuf/ffuf_root.json
+katana /home/sx/Documentos/projetos/evidencia/katana/katana_root.txt
+httpx /home/sx/Documentos/projetos/evidencia/httpx/httpx_resultado.txt
+semgrep /home/sx/Documentos/projetos/evidencia/semgrep/semgrep_auto.json
+status final /home/sx/Documentos/projetos/evidencia/relatorio/status_final.txt

@@ -1,0 +1,1 @@
+A referência ‘..\..\build\docker-images\HealthChecks.UI.Image\HealthChecks.UI.Image.csproj’ foi adicionada ao projeto.

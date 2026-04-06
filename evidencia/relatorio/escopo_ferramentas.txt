@@ -1,0 +1,17 @@
+escopo
+validacao de restore e build
+execucao de teste automatizado nunit
+enumeracao de superficie web com ffuf
+crawling com katana
+validacao de resposta com httpx
+analise estatica com semgrep
+
+ferramentas
+nunit
+dotnet
+ffuf
+katana
+httpx
+semgrep
+sqlmap nao aplicado nesta rodada
+insomnia fora da rodada final

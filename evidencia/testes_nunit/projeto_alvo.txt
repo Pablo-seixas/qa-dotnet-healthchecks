@@ -1,0 +1,1 @@
+./build/docker-images/HealthChecks.UI.Image/HealthChecks.UI.Image.csproj

@@ -1,22 +1,23 @@
 # qa dotnet healthchecks
 
-repositorio focado em teste de software qa sobre um projeto csharp dotnet com evidencia de execucao relatorio final e pipeline de ci
+repositorio focado em teste de software qa com evidencias reais geradas em execucao local
 
 ## objetivo
-validar build testes automatizados analise estatica enumeracao web e comportamento funcional do sistema
+validar build testes automatizados analise estatica enumeracao web e validacao funcional
 
-## stack
-csharp
-dotnet
-nunit
-ffuf
-katana
-httpx
-curl
-semgrep
-github actions
+## estrutura
+README.md
+.github/workflows/ci.yml
+evidencia/build
+evidencia/testes_nunit
+evidencia/ffuf
+evidencia/katana
+evidencia/httpx
+evidencia/semgrep
+evidencia/relatorio
+evidencia/logs
 
-## resultado da rodada
+## resultado final da rodada
 restore ok
 build ok
 nunit ok
@@ -25,18 +26,5 @@ katana ok com evidencia minima
 semgrep ok
 validacao funcional bloqueada por falha de runtime do sample na porta 5010
 
-## achado principal
-foi identificado um defeito real de execucao durante a tentativa de validacao funcional
-isso caracteriza resultado legitimo de qa e nao falha do processo de teste
-
-## estrutura do repositorio
-README.md
-relatorio RELATORIO_FINAL_QA.md
-.github workflows ci.yml
-
-## pipeline
-o pipeline executa restore build teste e semgrep
-existe uma etapa funcional opcional para o sample ate que o problema de runtime seja corrigido
-
-## conclusao
-este repositorio representa uma rodada real de qa com evidencias tecnicas e identificacao de defeito funcional
+## observacao
+as pastas em evidencia contem os arquivos reais produzidos durante a execucao dos comandos no ambiente local

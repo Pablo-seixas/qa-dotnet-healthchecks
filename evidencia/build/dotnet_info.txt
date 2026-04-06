@@ -1,0 +1,43 @@
+.NET SDK:
+ Version:           10.0.104
+ Commit:            80d3e14f5e
+ Workload version:  10.0.100-manifests.c7707153
+ MSBuild version:   18.0.11
+
+Ambiente de runtime:
+ OS Name:     endeavouros
+ OS Version:  
+ OS Platform: Linux
+ RID:         arch-x64
+ Base Path:   /usr/share/dotnet/sdk/10.0.104/
+
+Cargas de trabalho do .NET instaladas:
+Não há cargas de trabalho instaladas para exibir.
+Configurado para usar workload sets ao instalar novos manifestos.
+Nenhum conjunto de cargas de trabalho está instalado. Execute "dotnet workload restore" para instalar um conjunto de cargas de trabalho.
+
+Host:
+  Version:      10.0.4
+  Architecture: x64
+  Commit:       80d3e14f5e
+
+.NET SDKs installed:
+  10.0.104 [/usr/share/dotnet/sdk]
+
+.NET runtimes installed:
+  Microsoft.NETCore.App 10.0.4 [/usr/share/dotnet/shared/Microsoft.NETCore.App]
+
+Other architectures found:
+  None
+
+Environment variables:
+  Not set
+
+global.json file:
+  Not found
+
+Learn more:
+  https://aka.ms/dotnet/info
+
+Download .NET:
+  https://aka.ms/dotnet/download

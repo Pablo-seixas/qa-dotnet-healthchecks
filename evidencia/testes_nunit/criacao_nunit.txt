@@ -1,0 +1,12 @@
+O modelo "Projeto de Teste NUnit" foi criado com êxito.
+
+Processando ações pós-criação...
+Restaurando /home/sx/Documentos/projetos/c#/AspNetCore.Diagnostics.HealthChecks-master/tests/WatchDog.QATests/WatchDog.QATests.csproj:
+  Determinando os projetos a serem restaurados...
+/home/sx/Documentos/projetos/c#/AspNetCore.Diagnostics.HealthChecks-master/tests/WatchDog.QATests/WatchDog.QATests.csproj : error NU1008: Os seguintes itens PackageReference não podem definir um valor para Versão: coverlet.collector, Microsoft.NET.Test.Sdk, NUnit, NUnit.Analyzers, NUnit3TestAdapter. Projetos que usam o Gerenciamento Central de Pacotes devem definir um valor para a versão em um item PackageVersion. Para obter mais informações, visite https://aka.ms/nuget/cpm/gettingstarted
+  Falha ao restaurar /home/sx/Documentos/projetos/c#/AspNetCore.Diagnostics.HealthChecks-master/tests/WatchDog.QATests/WatchDog.QATests.csproj (em 473 ms).
+Falha na restauração.
+Falha na postagem.
+Instruções manuais: Executa "dotnet restore"
+
+

@@ -1,0 +1,18 @@
+relatorio final qa
+
+projeto AspNetCore.Diagnostics.HealthChecks
+
+ambiente arch linux
+
+resultados finais
+restore ok
+build ok
+nunit ok
+ffuf ok
+katana ok
+curl health negativo
+curl healthz negativo
+curl metrics negativo
+semgrep ok
+
+conclusao rodada final fechada com validacao funcional por curl

@@ -1,0 +1,9 @@
+restore ok
+build ok
+nunit ok
+ffuf ok
+katana ok
+curl_health negativo
+curl_healthz negativo
+curl_metrics negativo
+semgrep ok
